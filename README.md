@@ -13,7 +13,7 @@ A Movie Recommendation System that suggests movies to users based on their prefe
 
 1. Clone the repository.
 2. Install required Python packages.
-3. Install `jupyter` and open file through it.
+3. Install `jupyterlab` and open file through it.
 
 ## Contributing
 
